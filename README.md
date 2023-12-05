@@ -5,6 +5,9 @@
 
 
 
+<div>
+    <h2 style="text-align: center;"> Sobre mi </h2>
+</div>
 
 - 🔭 Trabaje en la empresa ALCANOS DE COLOMBIA S.A E.S.P
 - 🌱 Actualmente estoy aprendiendo DESARROLLO WEB: HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, PYTHON & DJANGO
