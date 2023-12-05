@@ -21,7 +21,7 @@
 <h2 >Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=cs,dotnet,php,angular,typescript,css,html,js,nodejs,postgresql,mysql,mongo,git,github,azure,postman,vscode,linux,windows" />
   </a>
 </p>
