@@ -45,7 +45,13 @@
 <!-- https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg -->
 
 
+Profesional en Ingeniería de Sistemas con más de tres años de experiencia laboral, destacándome en diversos lenguajes de programación para brindar servicios tanto en el soporte técnico como en la mejora de funcionalidades de distintos aplicativos y páginas web. 
 
+Poseo una sólida formación como Tecnólogo en Gestión de Bases de Datos, con habilidades en el manejo de información a través de plataformas como Informix, SQL Server, MySQL, PostgreSQL, Oracle PL/SQL y MongoDB.
+
+Mi capacidad se extiende al diseño, programación, mantenimiento y creación de sistemas informáticos, abarcando todo el ciclo de desarrollo, desde la planificación hasta el análisis, diseño y mantenimiento continuo de los sistemas. Me considero una persona altamente responsable, con un ferviente deseo de aprendizaje y creatividad.
+
+<!--
 - 🔭 Trabaje en la empresa ALCANOS DE COLOMBIA S.A E.S.P
 - 🌱 Actualmente estoy aprendiendo DESARROLLO WEB: HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, PYTHON & DJANGO
 - 👯 Busco colaborar en Proyectos con lenguaje C#
@@ -53,7 +59,7 @@
 - 💬 Pregúntame sobre ...
 - 📫 Cómo contactarme: brian.0892@hotmail.com
 - 😄 Pronombres: ...
-- ⚡ Dato curioso: ...
+- ⚡ Dato curioso: ... -->
   
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
