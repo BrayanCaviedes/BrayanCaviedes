@@ -22,10 +22,10 @@
 <p align="center">
     <a href="https://github.com/BrayanCaviedes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="50" width="60" /></a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/brayancaviedes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> &nbsp;&nbsp;
-    <a href="https://www.instagram.com/brian.caviedes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a> &nbsp;&nbsp;
+    <a href="https://www.instagram.com/brian.caviedes/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" width="50" /></a> &nbsp;&nbsp;
     <a href="https://www.facebook.com/Caviedes08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a> &nbsp;&nbsp;
     <a href="https://www.youtube.com/@brayan6343" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/512px-YouTube_social_white_squircle.svg.png" alt="youtube" height="50" width="50" /></a> &nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caviedesbrayan@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="50" width="50" /></a> &nbsp;&nbsp;
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caviedesbrayan@gmail.com" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" alt="gmail" height="50" width="50" /></a> &nbsp;&nbsp;
     <a href="mailto:brian.0892@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" height="50" width="50" /></a> &nbsp;&nbsp;
 </p>
 
@@ -76,9 +76,13 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<div id="proyectos">
-<h2 >Algunos proyectos</h2>
+<br>
 
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"><b> Algunos proyectos</b>
+<br>
+
+
+<div id="proyectos">
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
