@@ -29,8 +29,13 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/brayancaviedes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-    <a href="https://www.instagram.com/brian.caviedes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+    <a href="https://github.com/BrayanCaviedes" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="github" height="50" width="50" /></a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/brayancaviedes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> &nbsp;&nbsp;
+    <a href="https://www.instagram.com/brian.caviedes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a> &nbsp;&nbsp;
+    <a href="https://www.facebook.com/Caviedes08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="facebook" height="50" width="50" /></a> &nbsp;&nbsp;
+    <a href="https://www.youtube.com/@brayan6343" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="youtube" height="50" width="50" /></a> &nbsp;&nbsp;
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caviedesbrayan@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="gmail" height="50" width="50" /></a> &nbsp;&nbsp;
+    <a href="mailto:brian.0892@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="outlook" height="50" width="50" /></a> &nbsp;&nbsp;
 </p>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
