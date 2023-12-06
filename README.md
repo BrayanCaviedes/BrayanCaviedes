@@ -1,8 +1,11 @@
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <div style="text-align: center;">
     <h1 style="text-align: center;"> Hola soy Brayan Caviedes Barrios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 <img src="https://media.licdn.com/dms/image/C4D16AQFUyxfekWjHrw/profile-displaybackgroundimage-shrink_350_1400/0/1604078090624?e=1707350400&v=beta&t=6QEkctUD8IhvMt66vLQci6gtPCcpw4SUOsjzQS0Etyc">
 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div>
     <h2 style="text-align: center;"> Mis redes sociales </h2>
@@ -15,17 +18,12 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caviedesbrayan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" /></a>
 </p>
 
-
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br>
 
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+<picture> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" width = 250px></picture>
 <br>
 
 
@@ -38,8 +36,16 @@
 - 📫 Cómo contactarme: brian.0892@hotmail.com
 - 😄 Pronombres: ...
 - ⚡ Dato curioso: ...
+  
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<h2 >Tecnologías conocidas</h2>
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías conocidas</b>
+<br>
+
+
+
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev/icons?i=cs,dotnet,php,angular,typescript,css,html,js,nodejs,postgresql,mysql,mongo,git,github,azure,postman,vscode,linux,windows" target="_blank">
@@ -47,3 +53,64 @@
   </a>
 </p>
 <br>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<div id="proyectos">
+<h2 >Algunos proyectos</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
