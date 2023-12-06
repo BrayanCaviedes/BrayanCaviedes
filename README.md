@@ -4,7 +4,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div style="text-align: center;">
-    <h1 style="text-align: center;"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hola soy Brayan Caviedes Barrios
+    <h1 style="text-align: center;"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  Hola soy Brayan Caviedes Barrios
         <a href="https://github.com/BrayanCaviedes">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun"/></a> 
         <a href="https://github.com/BrayanCaviedes">
@@ -61,7 +61,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías conocidas</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tecnologías conocidas</b>
 <br>
 
 
@@ -78,49 +78,84 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
 
 <br>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"><b> Algunos proyectos</b>
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"><b>  Algunos proyectos</b>
 <br>
 
 
 <div id="proyectos">
 <table align="left" >
 <tr border="none">
-  <td width="25%" align="center">
+  <td width="25%" align="center">   
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
+        <strong>Programación de Citas - Luegopago</strong> <br>
+        <a><br>
+            <img align="center" width=100% src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" alt="VIDEO" />
+        </a>
+    </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
+        Un sistema de administración de agendas de servicios con un módulo que permite la programación de citas para dichos servicios.
+    </p>
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">        
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://github.com/BrayanCaviedes/programacion_de_citas-Luegopago" target="blank">
+            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+        </a>
     </p>       
 </td>
 
-   <td width="25%" align="center">
+
+    
+<td width="25%" align="center">   
     <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
+        <strong>Lista de Pacientes - Backend </strong> <br>
+        <a><br>
+            <img align="center" width=100% src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" alt="VIDEO" />
+        </a>
+    </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        Esta API proporciona funcionalidades completas para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos de pacientes. Con esta interfaz, puedes gestionar eficientemente 
+        la información de los pacientes, permitiendo la creación, lectura, actualización y eliminación de registros de manera sencilla.
+    </p>
+    <p align="center">
+        <a href="https://github.com/BrayanCaviedes/prueba_brayan_caviedes" target="blank">
+            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+        </a>
+    </p>       
+</td>
+
+  
+  <td width="25%" align="center">   
+    <p align="center">
+        <strong>Lista de Pacientes - Fronted </strong> <br>
+        <a><br>
+            <img align="center" width=100% src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" alt="VIDEO" />
+        </a>
+    </p>
+    <p align="center">
+        Este componente Frontend desarrollado en Angular proporciona una interfaz intuitiva y potente para llevar a cabo operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos de 
+        pacientes. Con esta aplicación, puedes gestionar eficazmente la información de los pacientes, permitiendo la creación, visualización, actualización y eliminación de registros de manera fluida y 
+        amigable.
+    </p>
+    <p align="center">
+        <a href="https://github.com/BrayanCaviedes/prueba_brayan_caviedes_FrontEnd" target="blank">
+            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+        </a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">   
+    <p align="center">
+        <strong>Brayan Caviedes</strong> <br>
+        <a><br>
+            <img align="center" width=100% src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" alt="VIDEO" />
+        </a>
+    </p>
+    <p align="center">
+        Este es mi archivo HTML diseñado para personalizar la plantilla de GitHub.
+    </p>
+    <p align="center">
+        <a href="https://github.com/BrayanCaviedes/BrayanCaviedes" target="blank">
+            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+        </a>
     </p>       
 </td>
   
