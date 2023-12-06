@@ -4,6 +4,18 @@
 <img src="https://media.licdn.com/dms/image/C4D16AQFUyxfekWjHrw/profile-displaybackgroundimage-shrink_350_1400/0/1604078090624?e=1707350400&v=beta&t=6QEkctUD8IhvMt66vLQci6gtPCcpw4SUOsjzQS0Etyc">
 
 
+<div>
+    <h2 style="text-align: center;"> Mis redes sociales </h2>
+</div>
+
+<p align="left">
+  <a href="https://www.youtube.com/@brayan6343" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="https://www.linkedin.com/in/brayancaviedes/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+     alt="unsimpledev"/></a>
+  <a href="https://www.facebook.com/Caviedes08" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+  <a href = "mailto:caviedesbrayan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+</p>
+
 
 <div>
     <h2 style="text-align: center;"> Sobre mi </h2>
