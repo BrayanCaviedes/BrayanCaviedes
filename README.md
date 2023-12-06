@@ -87,7 +87,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
 <tr border="none">
   <td width="25%" align="center">   
     <p align="center">
-        <strong>Programación de Citas - Luegopago</strong> <br>
+        <strong>Programación de Citas</strong> <br>
         <a><br>
             <img align="center" width=100% src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" alt="VIDEO" />
         </a>
@@ -112,8 +112,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         </a>
     </p>
     <p align="center">
-        Esta API proporciona funcionalidades completas para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos de pacientes. Con esta interfaz, puedes gestionar eficientemente 
-        la información de los pacientes, permitiendo la creación, lectura, actualización y eliminación de registros de manera sencilla.
+        Esta API proporciona funcionalidades completas para realizar operaciones CRUD en una base de datos de pacientes de manera sencilla.
     </p>
     <p align="center">
         <a href="https://github.com/BrayanCaviedes/prueba_brayan_caviedes" target="blank">
@@ -131,9 +130,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         </a>
     </p>
     <p align="center">
-        Este componente Frontend desarrollado en Angular proporciona una interfaz intuitiva y potente para llevar a cabo operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos de 
-        pacientes. Con esta aplicación, puedes gestionar eficazmente la información de los pacientes, permitiendo la creación, visualización, actualización y eliminación de registros de manera fluida y 
-        amigable.
+        Este componente Frontend proporciona una interfaz intuitiva y potente para llevar a cabo operaciones CRUD en una base de datos de pacientes.
     </p>
     <p align="center">
         <a href="https://github.com/BrayanCaviedes/prueba_brayan_caviedes_FrontEnd" target="blank">
@@ -150,7 +147,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         </a>
     </p>
     <p align="center">
-        Este es mi archivo HTML diseñado para personalizar la plantilla de GitHub.
+        Este es mi archivo HTML que he desarrollado con el propósito de personalizar la plantilla de GitHub que utilizo actualmente, adaptada a mis necesidades.
     </p>
     <p align="center">
         <a href="https://github.com/BrayanCaviedes/BrayanCaviedes" target="blank">
