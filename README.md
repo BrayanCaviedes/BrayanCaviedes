@@ -1,3 +1,6 @@
+<!--divisor horizontal-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div style="text-align: center;">
@@ -16,6 +19,11 @@
   <a href="https://www.linkedin.com/in/brayancaviedes/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev" /></a>
   <a href="https://www.facebook.com/Caviedes08" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caviedesbrayan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" /></a>
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/brayancaviedes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+    <a href="https://www.instagram.com/brian.caviedes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -117,3 +125,6 @@
 <br><br>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!--divisor horizontal-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
