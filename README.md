@@ -9,12 +9,12 @@
 </div>
 
 <p align="left">
-  <a href="https://www.youtube.com/@brayan6343" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-  <a href="https://www.linkedin.com/in/brayancaviedes/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-     alt="unsimpledev"/></a>
-  <a href="https://www.facebook.com/Caviedes08" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-  <a href = "mailto:caviedesbrayan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="https://www.youtube.com/@brayan6343" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+  <a href="https://www.linkedin.com/in/brayancaviedes/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev" /></a>
+  <a href="https://www.facebook.com/Caviedes08" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev" /></a>
+  <a href="mailto:caviedesbrayan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" /></a>
 </p>
+
 
 
 <div>
