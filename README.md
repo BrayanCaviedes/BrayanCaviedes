@@ -221,10 +221,10 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
                 <a href="https://raw.githubusercontent.com/BrayanCaviedes/BrayanCaviedes/main/222.jpg" target="_blank">
                   <p>Imagen 2</p>
                 </a>
-                <a href="https://raw.githubusercontent.com/BrayanCaviedes/BrayanCaviedes/main/333.jpg" target="_blank">
+                <a href="https://raw.githubusercontent.com/BrayanCaviedes/BrayanCaviedes/main/3333.jpg" target="_blank">
                   <p>Imagen 3</p>
                 </a>
-                <a href="https://raw.githubusercontent.com/BrayanCaviedes/BrayanCaviedes/main/444.jpg" target="_blank">
+                <a href="https://raw.githubusercontent.com/BrayanCaviedes/BrayanCaviedes/main/4444.jpg" target="_blank">
                   <p>Imagen 4</p>
                 </a>
 </td>
