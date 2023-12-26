@@ -8,7 +8,7 @@
         <a href="https://github.com/BrayanCaviedes">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun"/></a> 
         <a href="https://github.com/BrayanCaviedes">
-            <img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+            <img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" /> <br>
         </a>
     </h1>
 </div>
@@ -99,7 +99,12 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         <a href="https://github.com/BrayanCaviedes/programacion_de_citas-Luegopago" target="blank">
             <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
         </a>
-    </p>       
+    </p>      
+    </p>
+    <p align="center">
+        <a href="https://github.com/BrayanCaviedes/programacion_de_citas-Luegopago" target="blank">
+        </a>
+    </p>  
 </td>
 
 
@@ -119,6 +124,23 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
             <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
         </a>
     </p>       
+         <p align="center"> <br> <br>
+        <strong>Fotos del proyecto</strong> <br>
+          <p align="center">
+            <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
+     </p>  
+             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/1.jpg?raw=true">
+                  <p>Imagen 1</p>
+                </a>
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/2.jpg?raw=true">
+                  <p>Imagen 2</p>
+                </a>
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/3.jpg?raw=true">
+                  <p>Imagen 3</p>
+                </a>
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/4.jpg?raw=true">
+                  <p>Imagen 4</p>
+                </a>
 </td>
 
   
@@ -136,7 +158,24 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         <a href="https://github.com/BrayanCaviedes/prueba_brayan_caviedes_FrontEnd" target="blank">
             <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
         </a>
-    </p>       
+    </p>      
+           <p align="center"> <br> <br>
+        <strong>Fotos del proyecto</strong> <br>
+          <p align="center">
+            <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
+     </p>  
+             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/1.jpg?raw=true">
+                  <p>Imagen 1</p>
+                </a>
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/2.jpg?raw=true">
+                  <p>Imagen 2</p>
+                </a>
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/3.jpg?raw=true">
+                  <p>Imagen 3</p>
+                </a>
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/4.jpg?raw=true">
+                  <p>Imagen 4</p>
+                </a>
 </td>
 
    <td width="25%" align="center">   
