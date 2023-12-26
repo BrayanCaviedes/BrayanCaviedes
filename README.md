@@ -129,16 +129,16 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
           <p align="center">
             <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
      </p>  
-             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/1.jpg?raw=true">
+             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/1.jpg?raw=true" target="_blank">
                   <p>Imagen 1</p>
                 </a>
-                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/2.jpg?raw=true">
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/2.jpg?raw=true" target="_blank">
                   <p>Imagen 2</p>
                 </a>
-                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/3.jpg?raw=true">
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/3.jpg?raw=true" target="_blank">
                   <p>Imagen 3</p>
                 </a>
-                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/4.jpg?raw=true">
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/4.jpg?raw=true" target="_blank">
                   <p>Imagen 4</p>
                 </a>
 </td>
@@ -164,16 +164,16 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
           <p align="center">
             <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
      </p>  
-             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/1.jpg?raw=true">
+             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/1.jpg?raw=true" target="_blank">
                   <p>Imagen 1</p>
                 </a>
-                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/2.jpg?raw=true">
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/2.jpg?raw=true" target="_blank">
                   <p>Imagen 2</p>
                 </a>
-                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/3.jpg?raw=true">
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/3.jpg?raw=true" target="_blank">
                   <p>Imagen 3</p>
                 </a>
-                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/4.jpg?raw=true">
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/4.jpg?raw=true" target="_blank">
                   <p>Imagen 4</p>
                 </a>
 </td>
