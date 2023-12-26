@@ -105,6 +105,23 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         <a href="https://github.com/BrayanCaviedes/programacion_de_citas-Luegopago" target="blank">
         </a>
     </p>  
+    <p align="center"> <br> <br>
+        <strong>Fotos del proyecto</strong> <br>
+          <p align="center">
+            <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
+     </p>  
+             <a href="" target="_blank">
+                  <p>Imagen 1</p>
+                </a>
+                <a href="" target="_blank">
+                  <p>Imagen 2</p>
+                </a>
+                <a href="" target="_blank">
+                  <p>Imagen 3</p>
+                </a>
+                <a href="" target="_blank">
+                  <p>Imagen 4</p>
+                </a>
 </td>
 
 
@@ -192,7 +209,24 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         <a href="https://github.com/BrayanCaviedes/BrayanCaviedes" target="blank">
             <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
         </a>
-    </p>       
+    </p> 
+       <p align="center"> <br> <br>
+        <strong>Fotos del proyecto</strong> <br>
+          <p align="center">
+            <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
+     </p>  
+             <a href="" target="_blank">
+                  <p>Imagen 1</p>
+                </a>
+                <a href="e" target="_blank">
+                  <p>Imagen 2</p>
+                </a>
+                <a href="" target="_blank">
+                  <p>Imagen 3</p>
+                </a>
+                <a href="" target="_blank">
+                  <p>Imagen 4</p>
+                </a>
 </td>
   
 </tr>
