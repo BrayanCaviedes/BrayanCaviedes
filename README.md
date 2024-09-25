@@ -4,7 +4,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div style="text-align: center;">
-    <h1 style="text-align: center;"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  Hola soy Brayan Caviedes Barrios
+    <h1 style="text-align: center;"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  Hi, I'm Brayan Caviedes Barrios
         <a href="https://github.com/BrayanCaviedes">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun"/></a> 
         <a href="https://github.com/BrayanCaviedes">
@@ -13,11 +13,13 @@
     </h1>
 </div>
 
-<img src="https://media.licdn.com/dms/image/C4D16AQFUyxfekWjHrw/profile-displaybackgroundimage-shrink_350_1400/0/1604078090624?e=1707350400&v=beta&t=6QEkctUD8IhvMt66vLQci6gtPCcpw4SUOsjzQS0Etyc">
+<p align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI2YzUyZ3BpcWI0cDdsamVoaG9iNXkwb2dzend1MnV4MWZ6OXo1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Giphy">
+</p>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-## <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px></picture> **Mis redes sociales**
+## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd6cmJmajQzdzJrNTJvbnpmZGZnMzZkbHA0bHJocTNhZnVteWt6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RfMcUOEd4n9vgbmXWY/giphy.webp" width = 50px></picture> **My social networks**
 
 <p align="center">
     <a href="https://github.com/BrayanCaviedes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="50" width="60" /></a> &nbsp;&nbsp;
@@ -33,7 +35,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNhbzBhZjgxbXdocm5iamppdnJzdTd1eTFnY2Fqc29hOWZ1cGdvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.webp" width = 50px></picture> **About me**
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -41,11 +43,11 @@
 <!-- https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg -->
 
 
-Profesional en Ingeniería de Sistemas con más de tres años de experiencia laboral, destacándome en diversos lenguajes de programación para brindar servicios tanto en el soporte técnico como en la mejora de funcionalidades de distintos aplicativos y páginas web. 
+Professional in Systems Engineering with more than three years of work experience, standing out in various programming languages ​​to provide services both in technical support and in improving the functionality of different applications and web pages.
 
-Poseo una sólida formación como Tecnólogo en Gestión de Bases de Datos, con habilidades en el manejo de información a través de plataformas como Informix, SQL Server, MySQL, PostgreSQL, Oracle PL/SQL y MongoDB.
+I have a solid background as a Database Management Technologist, with skills in managing information through platforms such as Informix, SQL Server, MySQL, PostgreSQL, Oracle PL/SQL and MongoDB.
 
-Mi capacidad se extiende al diseño, programación, mantenimiento y creación de sistemas informáticos, abarcando todo el ciclo de desarrollo, desde la planificación hasta el análisis, diseño y mantenimiento continuo de los sistemas. Me considero una persona altamente responsable, con un ferviente deseo de aprendizaje y creatividad.
+My ability extends to the design, programming, maintenance and creation of computer systems, covering the entire development cycle, from planning to analysis, design and ongoing maintenance of the systems. I consider myself a highly responsible person, with a fervent desire for learning and creativity. improve text to look more professional
 
 <!--
 - 🔭 Trabaje en la empresa ALCANOS DE COLOMBIA S.A E.S.P
@@ -61,7 +63,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tecnologías conocidas</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Known Technologies</b>
 <br>
 
 
@@ -78,7 +80,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
 
 <br>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"><b>  Algunos proyectos</b>
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"><b>  Completed projects</b>
 <br>
 
 
@@ -87,10 +89,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
 <tr border="none">
   <td width="25%" align="center">   
     <p align="center">
-        <strong>Programación de Citas</strong> <br>
-        <a><br>
-            <img align="center" width=100% src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" alt="VIDEO" />
-        </a>
+        <strong style="color: blue;">Programación de Citas</strong> <br>
     </p>
     <p align="center">
         Un sistema de administración de agendas de servicios con un módulo que permite la programación de citas para dichos servicios.
@@ -106,7 +105,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         </a>
     </p>  
     <p align="center"> <br> <br>
-        <strong>Fotos del proyecto</strong> <br>
+        <strong>Project photos</strong> <br>
           <p align="center">
             <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
      </p>  
@@ -129,9 +128,6 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
 <td width="25%" align="center">   
     <p align="center">
         <strong>Lista de Pacientes - Backend </strong> <br>
-        <a><br>
-            <img align="center" width=100% src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" alt="VIDEO" />
-        </a>
     </p>
     <p align="center">
         Esta API proporciona funcionalidades completas para realizar operaciones CRUD en una base de datos de pacientes de manera sencilla.
@@ -142,7 +138,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         </a>
     </p>       
          <p align="center"> <br> <br>
-        <strong>Fotos del proyecto</strong> <br>
+        <strong>Project photos</strong> <br>
           <p align="center">
             <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
      </p>  
@@ -164,9 +160,6 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
   <td width="25%" align="center">   
     <p align="center">
         <strong>Lista de Pacientes - Fronted </strong> <br>
-        <a><br>
-            <img align="center" width=100% src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" alt="VIDEO" />
-        </a>
     </p>
     <p align="center">
         Este componente Frontend proporciona una interfaz intuitiva y potente para llevar a cabo operaciones CRUD en una base de datos de pacientes.
@@ -177,7 +170,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         </a>
     </p>      
            <p align="center"> <br> <br>
-        <strong>Fotos del proyecto</strong> <br>
+        <strong>Project photos</strong> <br>
           <p align="center">
             <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
      </p>  
@@ -198,9 +191,6 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
    <td width="25%" align="center">   
     <p align="center">
         <strong>Brayan Caviedes</strong> <br>
-        <a><br>
-            <img align="center" width=100% src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" alt="VIDEO" />
-        </a>
     </p>
     <p align="center">
         Este es mi archivo HTML que he desarrollado con el propósito de personalizar la plantilla de GitHub que utilizo actualmente, adaptada a mis necesidades.
@@ -211,7 +201,7 @@ Mi capacidad se extiende al diseño, programación, mantenimiento y creación de
         </a>
     </p> 
        <p align="center"> <br> <br>
-        <strong>Fotos del proyecto</strong> <br>
+        <strong>Project photos</strong> <br>
           <p align="center">
             <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
      </p>  
