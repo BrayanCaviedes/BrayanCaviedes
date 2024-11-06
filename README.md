@@ -92,7 +92,7 @@ My ability extends to the design, programming, maintenance and creation of compu
         <strong style="color: blue;">Programación de Citas</strong> <br>
     </p>
     <p align="center">
-        Un sistema de administración de agendas de servicios con un módulo que permite la programación de citas para dichos servicios.
+        Este programa de escritorio facilita la administración de agendas, permitiendo a los usuarios ver la disponibilidad de citas y optimizar la planificación de servicios.
     </p>
     <p align="center">
         <a href="https://github.com/BrayanCaviedes/programacion_de_citas-Luegopago" target="blank">
@@ -109,10 +109,10 @@ My ability extends to the design, programming, maintenance and creation of compu
           <p align="center">
             <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
      </p>  
-             <a>
+             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/Programacion%20de%20Citas.jpg?raw=true"  target="_blank">
                   <p>Imagen 1</p>
                 </a>
-                <a>
+                <a >
                   <p>Imagen 2</p>
                 </a>
                 <a>
