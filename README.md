@@ -190,13 +190,13 @@ My ability extends to the design, programming, maintenance and creation of compu
 
    <td width="25%" align="center">   
     <p align="center">
-        <strong>Brayan Caviedes</strong> <br>
+        <strong>Rick and Morty</strong> <br>
     </p>
     <p align="center">
-        Este es mi archivo HTML que he desarrollado con el propósito de personalizar la plantilla de GitHub que utilizo actualmente, adaptada a mis necesidades.
+        Este proyecto en ASP.NET Core Web API, basado en .NET Framework 8.0, obtiene y muestra información de los personajes de "Rick and Morty".
     </p>
     <p align="center">
-        <a href="https://github.com/BrayanCaviedes/BrayanCaviedes" target="blank">
+        <a href="https://github.com/BrayanCaviedes/Rick-and-Morty" target="blank">
             <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
         </a>
     </p> 
@@ -205,16 +205,16 @@ My ability extends to the design, programming, maintenance and creation of compu
           <p align="center">
             <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
      </p>  
-             <a href="https://raw.githubusercontent.com/BrayanCaviedes/BrayanCaviedes/main/111.jpg" target="_blank">
+             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/Rick%20and%20Morty%201.jpg?raw=true" target="_blank">
                   <p>Imagen 1</p>
                 </a>
-                <a href="https://raw.githubusercontent.com/BrayanCaviedes/BrayanCaviedes/main/222.jpg" target="_blank">
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/Rick%20and%20Morty%202.jpg?raw=true" target="_blank">
                   <p>Imagen 2</p>
                 </a>
-                <a href="https://raw.githubusercontent.com/BrayanCaviedes/BrayanCaviedes/main/333.jpg" target="_blank">
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/Rick%20and%20Morty%203.jpg?raw=true" target="_blank">
                   <p>Imagen 3</p>
                 </a>
-                <a href="https://raw.githubusercontent.com/BrayanCaviedes/BrayanCaviedes/main/444.jpg" target="_blank">
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/Rick%20and%20Morty%204.jpg?raw=true" target="_blank">
                   <p>Imagen 4</p>
                 </a>
 </td>
