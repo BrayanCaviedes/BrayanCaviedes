@@ -109,10 +109,10 @@ My ability extends to the design, programming, maintenance and creation of compu
           <p align="center">
             <img align="center" src="https://usagif.com/wp-content/uploads/loading-80.gif" alt="@unsimpledev" />
      </p>  
-             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/Programacion%20de%20Citas.jpg?raw=true"  target="_blank">
+             <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/Programacion%20de%20Citas%201.jpg?raw=true"  target="_blank">
                   <p>Imagen 1</p>
                 </a>
-                <a >
+                <a href="https://github.com/BrayanCaviedes/BrayanCaviedes/blob/main/Programacion%20de%20Citas%202.jpg?raw=true"  target="_blank">
                   <p>Imagen 2</p>
                 </a>
                 <a>
